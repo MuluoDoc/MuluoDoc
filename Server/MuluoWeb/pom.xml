@@ -13,16 +13,7 @@
 	<name>MuluoWeb</name>
 	<description>project for muluodoc web</description>
 	<dependencies>
-	<dependency>
-		<groupId>com.ic5e.muluo</groupId>
-		<artifactId>MuluoUtil</artifactId>
-		<version>${code.version}</version>
-	</dependency>
-	<dependency>
-		<groupId>com.ic5e.muluo</groupId>
-		<artifactId>MuluoServiceImpl</artifactId>
-		<version>${code.version}</version>
-	</dependency>
+	
 	</dependencies>
 
 	<build>

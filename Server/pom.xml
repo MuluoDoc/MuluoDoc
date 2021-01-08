@@ -16,11 +16,6 @@
 	<name>Server</name>
 	<description>A Server for Muluo Doc</description>
 	<modules>
-		<module>MuluoDB</module>
-		<module>MuluoDto</module>
-		<module>MuluoService</module>
-		<module>MuluoServiceImpl</module>
-		<module>MuluoUtil</module>
 		<module>MuluoWeb</module>
 	</modules>
 	<properties>
